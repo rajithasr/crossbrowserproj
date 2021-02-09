@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-01-31T14:57:45 IST" name="Suite4" finished-at="2021-01-31T14:57:53 IST" duration-ms="8044">
+    <groups>
+    </groups>
+    <test started-at="2021-01-31T14:57:45 IST" name="fliptest" finished-at="2021-01-31T14:57:53 IST" duration-ms="8044">
+      <class name="tc.tc_f1homepage3">
+        <test-method signature="ftest()[pri:0, instance:tc.tc_f1homepage3@5f683daf]" started-at="2021-01-31T14:57:45 IST" name="ftest" finished-at="2021-01-31T14:57:53 IST" duration-ms="7992" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ftest -->
+      </class> <!-- tc.tc_f1homepage3 -->
+    </test> <!-- fliptest -->
+  </suite> <!-- Suite4 -->
+</testng-results>

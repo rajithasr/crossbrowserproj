@@ -1,0 +1,14 @@
+package tc;
+import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.annotations.*;
+public class iedriverhome {
+@Test
+public void login2()
+{
+	System.setProperty("webdriver.ie.driver", "C:\\Users\\pc\\Desktop\\drivers\\IEDriverServer.exe");
+	WebDriver driver=new InternetExplorerDriver();
+	driver.get("https://www.amazon.com");
+}
+
+}

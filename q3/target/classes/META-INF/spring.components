@@ -1,0 +1,2 @@
+q3.q3.App=org.springframework.stereotype.Component
+q3.q3.GreetingController=org.springframework.stereotype.Component

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-02-01T11:19:57Z" name="Default suite" finished-at="2021-02-01T11:20:13Z" duration-ms="16725">
+    <groups>
+    </groups>
+    <test started-at="2021-02-01T11:19:57Z" name="Default test" finished-at="2021-02-01T11:20:13Z" duration-ms="16725">
+      <class name="tc.storelogin">
+        <test-method signature="userlogin()[pri:0, instance:tc.storelogin@10959ece]" started-at="2021-02-01T11:19:57Z" name="userlogin" finished-at="2021-02-01T11:20:13Z" duration-ms="16693" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- userlogin -->
+      </class> <!-- tc.storelogin -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

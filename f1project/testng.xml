@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >  
+<suite name="Suite4" verbose="1" >
+  <test name="fliptest" >
+    <classes>
+       <class name="tc.tc_f1homepage3" />
+    </classes>
+  </test>  
+</suite>

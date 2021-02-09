@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;iedriverhome.java&apos; to &apos;tc.edgehome.java&apos;&#x0D;&#x0A;- Original project: &apos;microedge&apos;&#x0D;&#x0A;- Destination element: &apos;tc.edgehome.java&apos;&#x0D;&#x0A;- Original element: &apos;microegde.microedge.iedriverhome.java&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move compilation unit" destination="/src\/test\/java=/optional=/true=/=/maven.pomderived=/true=/=/test=/true=/&lt;tc{edgehome.java" element1="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;microegde.microedge{iedriverhome.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" patterns="*" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1612862360567" units="1" version="1.0"/>
+</session>

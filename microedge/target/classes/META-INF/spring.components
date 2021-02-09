@@ -1,0 +1,2 @@
+microegde.microedge.App=org.springframework.stereotype.Component
+microegde.microedge.GreetingController=org.springframework.stereotype.Component

@@ -1,0 +1,2 @@
+geckodriverproj.geckodriverproj.App=org.springframework.stereotype.Component
+geckodriverproj.geckodriverproj.GreetingController=org.springframework.stereotype.Component

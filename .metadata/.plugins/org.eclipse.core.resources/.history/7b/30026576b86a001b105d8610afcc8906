@@ -1,0 +1,11 @@
+package tc;
+import org.openqa.selenium.ie.InternetExplorerDriver;
+import org.testng.
+public class iedriverhome {
+@Test
+public void login2()
+{
+	
+}
+
+}
